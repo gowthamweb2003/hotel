@@ -1,0 +1,13 @@
+div{
+    
+    color: black;
+    margin: 30px;
+    display: block;
+    text-align: justify;
+    
+
+}
+body{
+    background-color: aqua;
+    justify-content: space-around;
+}
